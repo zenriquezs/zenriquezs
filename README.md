@@ -16,8 +16,12 @@
 
 <h2 align="center" style="color:#8A2BE2;">🔍 About Me</h2>
 
-<p align="center" style="color:#DDA0DD;">
-Soy estudiante de Ingeniería en TICs y desarrollador con pasión por el <b>desarrollo web</b> y <b>tecnologías IoT</b>. Actualmente estoy trabajando en la adaptación de sitios web para dispositivos móviles y el proyecto <b>GeoTransport Shield</b>, que usa LoRa y GPS para prevenir el robo de transporte de carga en Hidalgo.
+<p align="justify" style="color:#DDA0DD;">
+Soy estudiante de Ingeniería en TICs con un enfoque apasionado por la tecnología, el desarrollo web y las soluciones de IoT. Mi interés principal se centra en proyectos innovadores que utilizan herramientas y tecnologías como JavaScript, React, y LoRa para resolver problemas del mundo real. Actualmente, me encuentro trabajando en el proyecto <b>GeoTransport Shield</b>, cuyo propósito es prevenir robos de transporte de carga utilizando tecnologías IoT. Además, estoy constantemente aprendiendo y mejorando mis habilidades de diseño web adaptable, asegurando que los sitios web ofrezcan experiencias óptimas tanto en dispositivos móviles como en tabletas.
+</p>
+
+<p align="justify" style="color:#DDA0DD;">
+En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando en equipo y compartiendo conocimientos. Mi enfoque es siempre aprender algo nuevo y aplicar lo aprendido en proyectos de impacto que puedan beneficiar tanto a usuarios como a empresas. Mi objetivo a largo plazo es seguir desarrollando soluciones tecnológicas que combinen seguridad, eficiencia y diseño.
 </p>
 
 ---
@@ -72,12 +76,18 @@ Soy estudiante de Ingeniería en TICs y desarrollador con pasión por el <b>desa
 
 <h2 align="center" style="color:#8A2BE2;">🚀 Projects</h2>
 
-- **GeoTransport Shield**: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga.
-- **Sitios web adaptativos**: Desarrollo de sitios web con diseño responsivo para móviles y tabletas.
+<p align="justify" style="color:#DDA0DD;">
+  - **GeoTransport Shield**: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga en la región de Hidalgo. Este proyecto involucra la integración de redes de baja potencia con sistemas de rastreo en tiempo real, asegurando la seguridad de las mercancías durante su transporte.
+</p>
+
+<p align="justify" style="color:#DDA0DD;">
+  - **Sitios web adaptativos**: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
+</p>
 
 ---
 
 <h2 align="center" style="color:#8A2BE2;">🌱 Currently Learning</h2>
 
-- **Desarrollo móvil** con JavaScript y React Native.
-- **Optimización de rendimiento web** para experiencias de usuario más rápidas y fluidas.
+<p align="justify" style="color:#DDA0DD;">
+Actualmente estoy profundizando en el <b>desarrollo móvil</b>, específicamente en el uso de tecnologías como JavaScript y React Native para crear aplicaciones nativas. Además, estoy aprendiendo sobre la <b>optimización del rendimiento web</b> para crear experiencias de usuario más rápidas, fluidas y eficaces, utilizando las mejores prácticas y herramientas avanzadas para la mejora continua de mis proyectos.
+</p>
