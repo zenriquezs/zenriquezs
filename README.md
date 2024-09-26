@@ -17,7 +17,7 @@
 <h2 align="center" style="color:#8A2BE2;">🔍 Acerca de mí</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-Soy estudiante de Ingeniería en TICs con un enfoque apasionado por la tecnología, el desarrollo web y las soluciones de IoT. Mi interés principal se centra en proyectos innovadores que utilizan herramientas y tecnologías como JavaScript, React, y LoRa para resolver problemas del mundo real. Actualmente, me encuentro trabajando en el proyecto <b>GeoTransport Shield</b>, cuyo propósito es prevenir robos de transporte de carga utilizando tecnologías IoT. Además, estoy constantemente aprendiendo y mejorando mis habilidades de diseño web adaptable, asegurando que los sitios web ofrezcan experiencias óptimas tanto en dispositivos móviles como en tabletas.
+Soy estudiante de Ingeniería en TICs con un enfoque apasionado por la tecnología, el desarrollo web y las soluciones de IoT. Mi interés principal se centra en proyectos innovadores que utilizan herramientas y tecnologías como JavaScript, React, y LoRa para resolver problemas del mundo real.
 </p>
 
 <p align="justify" style="color:#DDA0DD;">
