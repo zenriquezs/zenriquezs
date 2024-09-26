@@ -20,10 +20,15 @@ _Aprendo y creo todos los días._
 ### 🌐 **Encuéntrame en:**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://zenriquezs.github.io/portfolioenriquezs.github.io/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/ZuigaZuigaEnri1)
+
 [![GitHub](https://img.shields.io/badge/GitHub-zenriquezs-black?style=for-the-badge&logo=github)](https://github.com/zenriquezs)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique_Zuñiga-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/zsenrique.privvvv/?hl=es)
+
 [![Email](https://img.shields.io/badge/Email-zenrizu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:zenrizu@gmail.com)
 
 ---
