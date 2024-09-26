@@ -77,11 +77,11 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 <h2 align="center" style="color:#8A2BE2;">🚀 Projects</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-<strong>GeoTransport Shield</strong>strong>: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga en la región de Hidalgo. Este proyecto involucra la integración de redes de baja potencia con sistemas de rastreo en tiempo real, asegurando la seguridad de las mercancías durante su transporte.
+<strong>GeoTransport Shield</strong>: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga en la región de Hidalgo. Este proyecto involucra la integración de redes de baja potencia con sistemas de rastreo en tiempo real, asegurando la seguridad de las mercancías durante su transporte.
 </p>
 
 <p align="justify" style="color:#DDA0DD;">
-  - **Sitios web adaptativos**: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
+<strong>Sitios web adaptativos</strong>strong>: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
 </p>
 
 ---
