@@ -29,7 +29,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 <h2 align="center" style="color:#8A2BE2;">🔗 Conectate conmigo</h2>
 
 <div align="center">
-  <a href="https://zenriquezs.github.io/portfolioenriquezs.github.io/" target="_blank">
+  <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23DA70D6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://x.com/ZuigaZuigaEnri1" target="_blank">
