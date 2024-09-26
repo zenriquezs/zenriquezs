@@ -81,7 +81,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 </p>
 
 <p align="justify" style="color:#DDA0DD;">
-<strong>Sitios web adaptativos</strong>strong>: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
+<strong>Sitios web adaptativos</strong>: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
 </p>
 
 ---
