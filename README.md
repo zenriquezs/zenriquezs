@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🔍 About Me</h2>
+<h2 align="center" style="color:#8A2BE2;">🔍 Acerca de mí</h2>
 
 <p align="justify" style="color:#DDA0DD;">
 Soy estudiante de Ingeniería en TICs con un enfoque apasionado por la tecnología, el desarrollo web y las soluciones de IoT. Mi interés principal se centra en proyectos innovadores que utilizan herramientas y tecnologías como JavaScript, React, y LoRa para resolver problemas del mundo real. Actualmente, me encuentro trabajando en el proyecto <b>GeoTransport Shield</b>, cuyo propósito es prevenir robos de transporte de carga utilizando tecnologías IoT. Además, estoy constantemente aprendiendo y mejorando mis habilidades de diseño web adaptable, asegurando que los sitios web ofrezcan experiencias óptimas tanto en dispositivos móviles como en tabletas.
@@ -26,7 +26,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🔗 Connect With Me</h2>
+<h2 align="center" style="color:#8A2BE2;">🔗 Conectate conmigo</h2>
 
 <div align="center">
   <a href="https://zenriquezs.github.io/portfolioenriquezs.github.io/" target="_blank">
@@ -51,7 +51,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">📊 GitHub Stats</h2>
+<h2 align="center" style="color:#8A2BE2;">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
@@ -61,7 +61,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">⚙️ Skills</h2>
+<h2 align="center" style="color:#8A2BE2;">⚙️ Habilidades</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -74,7 +74,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🚀 Projects</h2>
+<h2 align="center" style="color:#8A2BE2;">🚀 Proyectos</h2>
 
 <p align="justify" style="color:#DDA0DD;">
 <strong>GeoTransport Shield</strong>: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga en la región de Hidalgo. Este proyecto involucra la integración de redes de baja potencia con sistemas de rastreo en tiempo real, asegurando la seguridad de las mercancías durante su transporte.
@@ -86,7 +86,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🌱 Currently Learning</h2>
+<h2 align="center" style="color:#8A2BE2;">🌱 Actualmente aprendiendo</h2>
 
 <p align="justify" style="color:#DDA0DD;">
 Actualmente estoy profundizando en el <b>desarrollo móvil</b>, específicamente en el uso de tecnologías como JavaScript y React Native para crear aplicaciones nativas. Además, estoy aprendiendo sobre la <b>optimización del rendimiento web</b> para crear experiencias de usuario más rápidas, fluidas y eficaces, utilizando las mejores prácticas y herramientas avanzadas para la mejora continua de mis proyectos.
