@@ -70,6 +70,7 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/LoRa-%23FF6600?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
 ---
