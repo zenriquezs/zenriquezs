@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-TICs%20Engineer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-IoT%20Developer-lightpurple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Frontend%20Developer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-blue?style=for-the-badge" />
 </div>
 
 ---
@@ -20,71 +21,88 @@
 Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH), con un enfoque en el desarrollo de sistemas tecnológicos y la implementación de soluciones innovadoras. Apasionado por explorar el potencial del Internet de las Cosas (IoT), el análisis de datos y el desarrollo web, busco resolver problemas reales mediante la integración de tecnologías modernas.
 </p>
 
-<p align="justify" style="color:#DDA0DD;">
-A lo largo de mi formación, he adquirido experiencia en lenguajes de programación como Python, JavaScript, Dart y PHP, así como en bases de datos como Firebase y MySQL. Además, tengo un sólido entendimiento de redes, desde configuraciones LAN hasta VLANs. Mi compromiso con la innovación se refleja en los proyectos en los que he participado, que buscan mejorar la seguridad, la sostenibilidad y la eficiencia tecnológica.
-</p>
-
 ---
 
 <h2 align="center" style="color:#8A2BE2;">🎓 Formación Académica</h2>
 
-<ul style="color:#DDA0DD;">
-  <li><b>Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH)</b><br>
-      <i>2021 - 2024 | Mixquiahuala de Juárez</i><br>
-      Ingeniería en Tecnologías de la Información y Comunicaciones.
-  </li>
-  <li><b>Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS)</b><br>
-      <i>2018 - 2021 | Mixquiahuala de Juárez</i><br>
-      Técnico en Programación.
-  </li>
-</ul>
+<div align="center" style="color:#DDA0DD;">
+  <table>
+    <tr>
+      <th>Institución</th>
+      <th>Periodo</th>
+      <th>Programa</th>
+    </tr>
+    <tr>
+      <td><b>Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH)</b></td>
+      <td>2021 - 2024</td>
+      <td>Ingeniería en Tecnologías de la Información y Comunicaciones</td>
+    </tr>
+    <tr>
+      <td><b>Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS)</b></td>
+      <td>2018 - 2021</td>
+      <td>Técnico en Programación</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <h2 align="center" style="color:#8A2BE2;">💼 Experiencia</h2>
 
-<ul style="color:#DDA0DD;">
-  <li>
-    <b>REINGTEC</b><br>
-    <i>Coautor en Publicación de Artículo</i><br>
-    "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Participé en el diseño y desarrollo de un sistema basado en LoRa y GPS para prevenir robos de transporte de carga, integrando hardware y software, validando el sistema en un entorno controlado y evaluando su viabilidad técnica y operativa.
-  </li>
-  <li>
-    <b>CONAINTE 2024</b><br>
-    Desarrollo de un sistema de información para gestionar datos ambientales, como emisiones de gases de efecto invernadero (CO2, CH4, N2O). Implementé funcionalidades para recopilar, analizar y generar reportes estratégicos que apoyan la toma de decisiones en instituciones públicas y privadas.
-  </li>
-  <li>
-    <b>INNOVATEC 2024</b><br>
-    <i>GeoTransport Shield - Prototipo IoT para Monitoreo y Prevención de Robos</i><br>
-    Formé parte del equipo de desarrollo del prototipo GeoTransport Shield, utilizando tecnologías IoT como LoRa y GPS para monitorear transporte de carga en tiempo real. Este proyecto fue reconocido por su innovación en la seguridad vial.
-  </li>
-</ul>
-
----
-
-<h2 align="center" style="color:#8A2BE2;">📜 Certificaciones</h2>
-
-<ul style="color:#DDA0DD;">
-  <li>Introduction to IoT - <b>Cisco Networking Academy</b></li>
-  <li>CCNA: Introduction to Networks - <b>Cisco Networking Academy</b></li>
-  <li>CCNA: Switching, Routing, and Wireless Essentials - <b>Cisco Networking Academy</b></li>
-  <li>Introduction to Data Science - <b>Dataquest.io</b></li>
-  <li>Python Programming for Data Science - <b>Dataquest.io</b></li>
-  <li>Curso de Desarrollo Web: HTML y CSS - <b>Google Activate</b></li>
-</ul>
+<div align="center" style="color:#DDA0DD;">
+  <table>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td><b>REINGTEC</b></td>
+      <td>
+        Coautor en "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Diseñé y desarrollé un sistema basado en LoRa y GPS para prevenir robos de transporte, integrando hardware y software.
+      </td>
+    </tr>
+    <tr>
+      <td><b>CONAINTE 2024</b></td>
+      <td>
+        Desarrollo de un sistema para gestionar datos ambientales, recopilando y generando reportes estratégicos sobre emisiones de gases de efecto invernadero.
+      </td>
+    </tr>
+    <tr>
+      <td><b>INNOVATEC 2024</b></td>
+      <td>
+        Proyecto GeoTransport Shield: prototipo IoT para monitoreo en tiempo real del transporte de carga, reconocido por su innovación en seguridad vial.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <h2 align="center" style="color:#8A2BE2;">⚙️ Habilidades Técnicas</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/LoRa-%23FF6600?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<div align="center" style="color:#DDA0DD;">
+  <table>
+    <tr>
+      <th>Lenguajes de Programación</th>
+      <td>Python, JavaScript, Dart, PHP, C#, C</td>
+    </tr>
+    <tr>
+      <th>Bases de Datos</th>
+      <td>Firebase, MySQL, SQL Server</td>
+    </tr>
+    <tr>
+      <th>Herramientas de Control de Versiones</th>
+      <td>Git, GitHub</td>
+    </tr>
+    <tr>
+      <th>Redes y Seguridad</th>
+      <td>Configuración de redes LAN y VLANs</td>
+    </tr>
+    <tr>
+      <th>Desarrollo Web</th>
+      <td>HTML, CSS, JavaScript, Bootstrap</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -92,9 +110,15 @@ A lo largo de mi formación, he adquirido experiencia en lenguajes de programaci
 <h2 align="center" style="color:#8A2BE2;">🚀 Proyectos Destacados</h2>
 
 <ul style="color:#DDA0DD;">
-  <li><b>GeoTransport Shield</b>: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga. Este prototipo destacó por su innovación en seguridad vial y fue reconocido en Innovatec 2024.</li>
-  <li><b>Sistema de Gestión de Proyectos Ambientales</b>: Desarrollo de una plataforma tecnológica para administrar datos ambientales y generar reportes estratégicos en apoyo a la toma de decisiones.</li>
-  <li><b>Sitios Web Adaptativos</b>: Implementación de diseños responsivos utilizando HTML, CSS y JavaScript para garantizar experiencias de usuario optimizadas en cualquier dispositivo.</li>
+  <li>
+    <b>GeoTransport Shield:</b> Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga. Este prototipo destacó por su innovación en seguridad vial y fue reconocido en Innovatec 2024.
+  </li>
+  <li>
+    <b>Sistema de Gestión de Proyectos Ambientales:</b> Plataforma tecnológica para gestionar datos ambientales y generar reportes estratégicos en apoyo a la toma de decisiones.
+  </li>
+  <li>
+    <b>Sitios Web Adaptativos:</b> Implementación de diseños responsivos utilizando HTML, CSS y JavaScript para garantizar experiencias de usuario óptimas en cualquier dispositivo.
+  </li>
 </ul>
 
 ---
@@ -102,7 +126,7 @@ A lo largo de mi formación, he adquirido experiencia en lenguajes de programaci
 <h2 align="center" style="color:#8A2BE2;">🌱 Actualmente aprendiendo</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-Estoy enfocándome en el desarrollo móvil con Flutter y Dart, explorando nuevas metodologías para la optimización del rendimiento web y el diseño de redes IoT seguras. Mi meta es integrar estas habilidades en proyectos tecnológicos innovadores.
+Estoy profundizando en el desarrollo móvil con Flutter y Dart, explorando nuevas metodologías para la optimización del rendimiento web y el diseño de redes IoT seguras. Mi meta es integrar estas habilidades en proyectos tecnológicos innovadores.
 </p>
 
 ---
