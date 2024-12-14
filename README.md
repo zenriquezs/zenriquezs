@@ -23,79 +23,64 @@ Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicacione
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">💼 Experiencia</h2>
+<h2 align="center" style="color:#8A2BE2;">🚀 Proyectos Destacados</h2>
 
 <div align="center" style="color:#DDA0DD;">
-  <table>
-    <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-    </tr>
-    <tr>
-      <td><b>REINGTEC</b></td>
-      <td>
-        Coautor en "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Diseñé y desarrollé un sistema basado en LoRa y GPS para prevenir robos de transporte, integrando hardware y software.
-      </td>
-    </tr>
-    <tr>
-      <td><b>CONAINTE 2024</b></td>
-      <td>
-        Desarrollo de un sistema para gestionar datos ambientales, recopilando y generando reportes estratégicos sobre emisiones de gases de efecto invernadero.
-      </td>
-    </tr>
-    <tr>
-      <td><b>INNOVATEC 2024</b></td>
-      <td>
-        Proyecto GeoTransport Shield: prototipo IoT para monitoreo en tiempo real del transporte de carga, reconocido por su innovación en seguridad vial.
-      </td>
-    </tr>
-  </table>
+  <div>
+    <b>GeoTransport Shield:</b><br>
+    Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga. Este prototipo destacó por su innovación en seguridad vial y fue reconocido en Innovatec 2024.
+  </div>
+  <hr>
+  <div>
+    <b>Sistema de Gestión de Proyectos Ambientales:</b><br>
+    Plataforma tecnológica para gestionar datos ambientales y generar reportes estratégicos en apoyo a la toma de decisiones.
+  </div>
+  <hr>
+  <div>
+    <b>Sitios Web Adaptativos:</b><br>
+    Implementación de diseños responsivos utilizando HTML, CSS y JavaScript para garantizar experiencias de usuario óptimas en cualquier dispositivo.
+  </div>
 </div>
 
 ---
 
 <h2 align="center" style="color:#8A2BE2;">⚙️ Habilidades Técnicas</h2>
 
-<div align="center" style="color:#DDA0DD;">
+<div align="center">
   <table>
     <tr>
-      <th>Lenguajes de Programación</th>
-      <td>Python, JavaScript, Dart, PHP, C#, C</td>
+      <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> Python</td>
+      <td><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"> JavaScript</td>
+      <td><img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"> Dart</td>
     </tr>
     <tr>
-      <th>Bases de Datos</th>
-      <td>Firebase, MySQL, SQL Server</td>
-    </tr>
-    <tr>
-      <th>Herramientas de Control de Versiones</th>
-      <td>Git, GitHub</td>
-    </tr>
-    <tr>
-      <th>Redes y Seguridad</th>
-      <td>Configuración de redes LAN y VLANs</td>
-    </tr>
-    <tr>
-      <th>Desarrollo Web</th>
-      <td>HTML, CSS, JavaScript, Bootstrap</td>
+      <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"> MySQL</td>
+      <td><img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" alt="Firebase"> Firebase</td>
+      <td><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"> GitHub</td>
     </tr>
   </table>
 </div>
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🚀 Proyectos Destacados</h2>
+<h2 align="center" style="color:#8A2BE2;">💼 Experiencia</h2>
 
-<ul style="color:#DDA0DD;">
-  <li>
-    <b>GeoTransport Shield:</b> Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga. Este prototipo destacó por su innovación en seguridad vial y fue reconocido en Innovatec 2024.
-  </li>
-  <li>
-    <b>Sistema de Gestión de Proyectos Ambientales:</b> Plataforma tecnológica para gestionar datos ambientales y generar reportes estratégicos en apoyo a la toma de decisiones.
-  </li>
-  <li>
-    <b>Sitios Web Adaptativos:</b> Implementación de diseños responsivos utilizando HTML, CSS y JavaScript para garantizar experiencias de usuario óptimas en cualquier dispositivo.
-  </li>
-</ul>
+<div align="center" style="color:#DDA0DD;">
+  <div>
+    <h3>REINGTEC</h3>
+    <p>Coautor en "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Diseñé y desarrollé un sistema basado en LoRa y GPS para prevenir robos de transporte, integrando hardware y software.</p>
+  </div>
+  <hr>
+  <div>
+    <h3>CONAINTE 2024</h3>
+    <p>Desarrollo de un sistema para gestionar datos ambientales, recopilando y generando reportes estratégicos sobre emisiones de gases de efecto invernadero.</p>
+  </div>
+  <hr>
+  <div>
+    <h3>INNOVATEC 2024</h3>
+    <p>Proyecto GeoTransport Shield: prototipo IoT para monitoreo en tiempo real del transporte de carga, reconocido por su innovación en seguridad vial.</p>
+  </div>
+</div>
 
 ---
 
@@ -115,7 +100,7 @@ Además de mi pasión por la tecnología, disfruto viajar y aprender de nuevas c
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">📊 Estadísticas de GitHub</h2>
+<h2 align="center" style="color:#8A2BE2;">📈 Mis métricas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
