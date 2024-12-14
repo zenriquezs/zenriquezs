@@ -17,16 +17,16 @@
 <h2 align="center" style="color:#8A2BE2;">🔍 Acerca de mí</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-Soy estudiante de Ingeniería en TICs con un enfoque apasionado por la tecnología, el desarrollo web y las soluciones de IoT. Mi interés principal se centra en proyectos innovadores que utilizan herramientas y tecnologías como JavaScript, React, y LoRa para resolver problemas del mundo real.
+Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH), con experiencia en desarrollo de sistemas, implementación de herramientas tecnológicas y gestión de proyectos. Me apasiona la innovación tecnológica, con un enfoque en soluciones de IoT, desarrollo web y análisis de datos.
 </p>
 
 <p align="justify" style="color:#DDA0DD;">
-En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando en equipo y compartiendo conocimientos. Mi enfoque es siempre aprender algo nuevo y aplicar lo aprendido en proyectos de impacto que puedan beneficiar tanto a usuarios como a empresas. Mi objetivo a largo plazo es seguir desarrollando soluciones tecnológicas que combinen seguridad, eficiencia y diseño.
+He participado en proyectos como el <b>GeoTransport Shield</b>, un prototipo IoT basado en LoRa y GPS para prevenir robos de transporte, y en el desarrollo de un sistema de información para la gestión de proyectos ambientales. Mi objetivo es seguir creando soluciones tecnológicas que integren seguridad, eficiencia y diseño, mientras enfrento nuevos retos en el ámbito de la tecnología.
 </p>
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🔗 Conectate conmigo</h2>
+<h2 align="center" style="color:#8A2BE2;">🔗 Conéctate conmigo</h2>
 
 <div align="center">
   <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
@@ -40,9 +40,6 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
   </a>
   <a href="https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230967B9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/zsenrique.privvvv/?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23C71585?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:zenrizu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -64,25 +61,25 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 <h2 align="center" style="color:#8A2BE2;">⚙️ Habilidades</h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/LoRa-%23FF6600?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🚀 Proyectos</h2>
+<h2 align="center" style="color:#8A2BE2;">🚀 Proyectos Destacados</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-<strong>GeoTransport Shield</strong>: Proyecto IoT basado en LoRa y GPS para prevenir robos de transporte de carga en la región de Hidalgo. Este proyecto involucra la integración de redes de baja potencia con sistemas de rastreo en tiempo real, asegurando la seguridad de las mercancías durante su transporte.
+<strong>GeoTransport Shield</strong>: Proyecto IoT para prevenir robos de transporte utilizando LoRa y GPS. Este prototipo recibió reconocimiento en Innovatec 2024 por su enfoque innovador en el monitoreo en tiempo real.
 </p>
 
 <p align="justify" style="color:#DDA0DD;">
-<strong>Sitios web adaptativos</strong>: Desarrollo de sitios web que se adaptan a diferentes resoluciones de pantalla, garantizando una experiencia de usuario óptima tanto en dispositivos móviles como en tabletas. He implementado diseño responsivo utilizando HTML, CSS y JavaScript para lograr interfaces interactivas y rápidas.
+<strong>Sistema de Gestión de Proyectos Ambientales</strong>: Desarrollo de un sistema para administrar datos ambientales y generar reportes estratégicos. El proyecto destaca por su impacto en la toma de decisiones ambientales.
 </p>
 
 ---
@@ -90,5 +87,5 @@ En mi día a día, disfruto enfrentando nuevos retos tecnológicos, colaborando 
 <h2 align="center" style="color:#8A2BE2;">🌱 Actualmente aprendiendo</h2>
 
 <p align="justify" style="color:#DDA0DD;">
-Actualmente estoy profundizando en el <b>desarrollo móvil</b>, específicamente en el uso de tecnologías como JavaScript y React Native para crear aplicaciones nativas. Además, estoy aprendiendo sobre la <b>optimización del rendimiento web</b> para crear experiencias de usuario más rápidas, fluidas y eficaces, utilizando las mejores prácticas y herramientas avanzadas para la mejora continua de mis proyectos.
+Estoy profundizando en el <b>desarrollo móvil</b> con Flutter y Dart, además de explorar metodologías avanzadas para la <b>seguridad en redes IoT</b>. Mi meta es integrar estas habilidades en futuros proyectos que impacten positivamente la seguridad y la eficiencia tecnológica.
 </p>
