@@ -23,30 +23,6 @@ Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicacione
 
 ---
 
-<h2 align="center" style="color:#8A2BE2;">🎓 Formación Académica</h2>
-
-<div align="center" style="color:#DDA0DD;">
-  <table>
-    <tr>
-      <th>Institución</th>
-      <th>Periodo</th>
-      <th>Programa</th>
-    </tr>
-    <tr>
-      <td><b>Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH)</b></td>
-      <td>2021 - 2024</td>
-      <td>Ingeniería en Tecnologías de la Información y Comunicaciones</td>
-    </tr>
-    <tr>
-      <td><b>Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS)</b></td>
-      <td>2018 - 2021</td>
-      <td>Técnico en Programación</td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2 align="center" style="color:#8A2BE2;">💼 Experiencia</h2>
 
 <div align="center" style="color:#DDA0DD;">
@@ -136,6 +112,16 @@ Estoy profundizando en el desarrollo móvil con Flutter y Dart, explorando nueva
 <p align="justify" style="color:#DDA0DD;">
 Además de mi pasión por la tecnología, disfruto viajar y aprender de nuevas culturas. Estas experiencias amplían mi perspectiva y me inspiran a desarrollar soluciones tecnológicas que impacten positivamente en la sociedad.
 </p>
+
+---
+
+<h2 align="center" style="color:#8A2BE2;">📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&theme=material-palenight" alt="Top Languages" />
+</div>
 
 ---
 
