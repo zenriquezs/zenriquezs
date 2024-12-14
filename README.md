@@ -21,6 +21,29 @@
 Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH), con un enfoque en el desarrollo de sistemas tecnológicos y la implementación de soluciones innovadoras. Apasionado por explorar el potencial del Internet de las Cosas (IoT), el análisis de datos y el desarrollo web, busco resolver problemas reales mediante la integración de tecnologías modernas.
 </p>
 
+---
+
+<h2 align="center" style="color:#8A2BE2;">🎓 Formación Académica</h2>
+
+<div align="center" style="color:#DDA0DD;">
+  <table>
+    <tr>
+      <th>Institución</th>
+      <th>Periodo</th>
+      <th>Programa</th>
+    </tr>
+    <tr>
+      <td><b>Instituto Tecnológico Superior del Occidente del Estado de Hidalgo (ITSOEH)</b></td>
+      <td>2021 - 2024</td>
+      <td>Ingeniería en Tecnologías de la Información y Comunicaciones</td>
+    </tr>
+    <tr>
+      <td><b>Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTIS)</b></td>
+      <td>2018 - 2021</td>
+      <td>Técnico en Programación</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
