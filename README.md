@@ -1,7 +1,7 @@
 # Hola, soy Enrique Zuñiga Zuñiga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/zenriquezs">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Ingeniero+en+TICs;Apasionado+por+IoT+y+Ciberseguridad;Desarrollador+Backend+y+Frontend;Siempre+aprendiendo+nuevas+tecnologías"/>
   </a>
 </p>
