@@ -23,9 +23,24 @@
 ### 💼 Experiencia y Proyectos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=reingtec&theme=radical" alt="REINGTEC" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=conainte2024&theme=radical" alt="CONAINTE 2024" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=innovatec2024&theme=radical" alt="INNOVATEC 2024" />
+  <table>
+    <tr>
+      <th>📌 Proyecto</th>
+      <th>🔍 Descripción</th>
+    </tr>
+    <tr>
+      <td><b>REINGTEC</b></td>
+      <td>Desarrollo de un sistema basado en **LoRa y GPS** para rastreo y prevención de robos de transporte.</td>
+    </tr>
+    <tr>
+      <td><b>CONAINTE 2024</b></td>
+      <td>Plataforma para gestionar datos ambientales y generar reportes sobre emisiones de gases.</td>
+    </tr>
+    <tr>
+      <td><b>INNOVATEC 2024</b></td>
+      <td>Prototipo IoT **GeoTransport Shield**, reconocido por su innovación en seguridad vial.</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -33,10 +48,28 @@
 ### 📜 Certificaciones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_ciberseguridad&theme=radical" alt="Certificación en Ciberseguridad" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_iot&theme=radical" alt="Curso de IoT y Sensores Inteligentes" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_laravel&theme=radical" alt="Desarrollo de Aplicaciones Web con Laravel" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_mysql&theme=radical" alt="Gestión de Bases de Datos con MySQL y Firebase" />
+  <table>
+    <tr>
+      <th>📃 Certificación</th>
+      <th>🏅 Institución</th>
+    </tr>
+    <tr>
+      <td>🔹 **Certificación en Ciberseguridad**</td>
+      <td>Fundamentos de Seguridad en Redes y Criptografía</td>
+    </tr>
+    <tr>
+      <td>🔹 **Curso de IoT y Sensores Inteligentes**</td>
+      <td>Implementación de proyectos con LoRa y MQTT</td>
+    </tr>
+    <tr>
+      <td>🔹 **Desarrollo de Aplicaciones Web con Laravel**</td>
+      <td>Construcción de plataformas dinámicas y seguras</td>
+    </tr>
+    <tr>
+      <td>🔹 **Gestión de Bases de Datos con MySQL y Firebase**</td>
+      <td>Optimización y diseño de bases de datos escalables</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -53,19 +86,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌐 Portafolio y CV
-
-<p align="center">
-  <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://zenriquezs.github.io/CV-EnriqueZS/" target="_blank">
-    <img src="https://img.shields.io/badge/CV-1976D2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" />
-  </a>
 </p>
 
 ---
