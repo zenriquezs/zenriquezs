@@ -26,16 +26,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Logros y Reconocimientos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenriquezs&theme=material-palenight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenriquezs&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -53,4 +47,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
