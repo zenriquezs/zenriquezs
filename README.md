@@ -15,13 +15,16 @@
 - 🖥️ Experiencia en **Python, PHP, JavaScript, C#, C** y más.
 - 📡 Investigación en **LoRa, GPS y redes seguras**.
 - 🌱 Actualmente aprendiendo **Flutter y prácticas avanzadas de seguridad informática**.
+- 🏫 Formo parte de la **Universidad Politécnica de Francisco I. Madero (UPFIM)**, desarrollando plataformas tecnológicas para la comunidad educativa.
+- 🛠️ Trabajo en el desarrollo de un **sistema de viáticos** para la universidad, asegurando su funcionamiento eficiente y seguro.
+- 🖥️ Implementé un **chatbot en Laravel** para asistir a los usuarios en temas de ciberseguridad.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,flutter,mysql,firebase,git,github,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,flutter,mysql,firebase,git,github,linux,raspberrypi,laravel&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
