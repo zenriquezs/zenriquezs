@@ -10,48 +10,33 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 **Ingeniero en Tecnologías de la Información y Comunicaciones** en ITSOEH.
+- 🎓 **Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones** en ITSOEH.
 - 💡 Apasionado por **IoT, Ciberseguridad y Desarrollo Web**.
 - 🖥️ Experiencia en **Python, PHP, JavaScript, C#, C** y más.
 - 📡 Investigación en **LoRa, GPS y redes seguras**.
 - 🌱 Actualmente aprendiendo **Flutter y prácticas avanzadas de seguridad informática**.
-- 🏫 Formo parte de la **Universidad Politécnica de Francisco I. Madero (UPFIM)**, desarrollando plataformas tecnológicas para la comunidad educativa.
-- 🛠️ Trabajo en el desarrollo de un **sistema de viáticos** para la universidad, asegurando su funcionamiento eficiente y seguro.
-- 🖥️ Implementé un **chatbot en Laravel** para asistir a los usuarios en temas de ciberseguridad.
+- 🛠️ Desarrollo de un **sistema de viáticos** para la universidad, asegurando su funcionamiento eficiente y seguro.
+- 🖥️ Implementación de un **chatbot en Laravel** para asistencia en ciberseguridad.
 
 ---
 
 ### 💼 Experiencia y Proyectos
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-    </tr>
-    <tr>
-      <td><b>REINGTEC</b></td>
-      <td>Coautor en "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Diseñé y desarrollé un sistema basado en LoRa y GPS para prevenir robos de transporte, integrando hardware y software.</td>
-    </tr>
-    <tr>
-      <td><b>CONAINTE 2024</b></td>
-      <td>Desarrollo de un sistema para gestionar datos ambientales, recopilando y generando reportes estratégicos sobre emisiones de gases de efecto invernadero.</td>
-    </tr>
-    <tr>
-      <td><b>INNOVATEC 2024</b></td>
-      <td>Proyecto GeoTransport Shield: prototipo IoT para monitoreo en tiempo real del transporte de carga, reconocido por su innovación en seguridad vial.</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto1&theme=radical" alt="Proyecto 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto2&theme=radical" alt="Proyecto 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto3&theme=radical" alt="Proyecto 3" />
+</p>
 
 ---
 
 ### 📜 Certificaciones
 
-- 📌 **Certificación en Ciberseguridad** – Fundamentos de Seguridad en Redes y Criptografía.
-- 📌 **Curso de IoT y Sensores Inteligentes** – Implementación de proyectos con LoRa y MQTT.
-- 📌 **Desarrollo de Aplicaciones Web con Laravel** – Construcción de plataformas dinámicas y seguras.
-- 📌 **Gestión de Bases de Datos con MySQL y Firebase** – Optimización y diseño de bases de datos escalables.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion1&theme=radical" alt="Certificación 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion2&theme=radical" alt="Certificación 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion3&theme=radical" alt="Certificación 3" />
+</p>
 
 ---
 
