@@ -21,6 +21,40 @@
 
 ---
 
+### 💼 Experiencia y Proyectos
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td><b>REINGTEC</b></td>
+      <td>Coautor en "Desarrollo del Prototipo para el Seguimiento de Transporte con Tecnología IoT". Diseñé y desarrollé un sistema basado en LoRa y GPS para prevenir robos de transporte, integrando hardware y software.</td>
+    </tr>
+    <tr>
+      <td><b>CONAINTE 2024</b></td>
+      <td>Desarrollo de un sistema para gestionar datos ambientales, recopilando y generando reportes estratégicos sobre emisiones de gases de efecto invernadero.</td>
+    </tr>
+    <tr>
+      <td><b>INNOVATEC 2024</b></td>
+      <td>Proyecto GeoTransport Shield: prototipo IoT para monitoreo en tiempo real del transporte de carga, reconocido por su innovación en seguridad vial.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📜 Certificaciones
+
+- 📌 **Certificación en Ciberseguridad** – Fundamentos de Seguridad en Redes y Criptografía.
+- 📌 **Curso de IoT y Sensores Inteligentes** – Implementación de proyectos con LoRa y MQTT.
+- 📌 **Desarrollo de Aplicaciones Web con Laravel** – Construcción de plataformas dinámicas y seguras.
+- 📌 **Gestión de Bases de Datos con MySQL y Firebase** – Optimización y diseño de bases de datos escalables.
+
+---
+
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
