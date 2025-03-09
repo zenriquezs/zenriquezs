@@ -22,21 +22,29 @@
 
 ### 💼 Experiencia y Proyectos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto1&theme=radical" alt="Proyecto 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto2&theme=radical" alt="Proyecto 2" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=proyecto3&theme=radical" alt="Proyecto 3" />
-</p>
+📌 **REINGTEC**
+- Desarrollo de un **prototipo para seguimiento de transporte con IoT**.
+- Integración de **LoRa y GPS** para rastreo seguro de transporte.
+- Prevención de robos mediante **monitoreo en tiempo real**.
+
+📌 **CONAINTE 2024**
+- Diseño de un **sistema de gestión de datos ambientales**.
+- Generación de **reportes estratégicos sobre emisiones de gases**.
+- Aplicación de **modelos de análisis de datos** en ambiente web.
+
+📌 **INNOVATEC 2024**
+- Desarrollo de **GeoTransport Shield**, un prototipo IoT.
+- Reconocimiento por **innovación en seguridad vial**.
+- Aplicación de **protocolos de comunicación segura** en transporte.
 
 ---
 
 ### 📜 Certificaciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion1&theme=radical" alt="Certificación 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion2&theme=radical" alt="Certificación 2" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion3&theme=radical" alt="Certificación 3" />
-</p>
+✅ **Certificación en Ciberseguridad** – Fundamentos de seguridad en redes y criptografía.
+✅ **Curso de IoT y Sensores Inteligentes** – Implementación de proyectos con LoRa y MQTT.
+✅ **Desarrollo de Aplicaciones Web con Laravel** – Construcción de plataformas dinámicas y seguras.
+✅ **Gestión de Bases de Datos con MySQL y Firebase** – Optimización y diseño de bases de datos escalables.
 
 ---
 
