@@ -1,24 +1,24 @@
-## Hi there, I'm Enrique Zuñiga Zuñiga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hola, soy Enrique Zuñiga Zuñiga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=TICs+Engineer;IoT+%26+Cybersecurity+Enthusiast;Backend+%26+Frontend+Developer;Always+learning+new+things"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Ingeniero+en+TICs;Apasionado+por+IoT+y+Ciberseguridad;Desarrollador+Backend+y+Frontend;Siempre+aprendiendo+nuevas+tecnologías"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mí
 
-- 🎓 **Engineer in Information and Communication Technologies** at ITSOEH.
-- 💡 Passionate about **IoT, Cybersecurity, and Web Development**.
-- 🖥️ Experienced in **Python, PHP, JavaScript, C#** and more.
-- 📡 Researching **LoRa, GPS, and secure networks**.
-- 🌱 Currently learning **Flutter & Cybersecurity Practices**.
+- 🎓 **Ingeniero en Tecnologías de la Información y Comunicaciones** en ITSOEH.
+- 💡 Apasionado por **IoT, Ciberseguridad y Desarrollo Web**.
+- 🖥️ Experiencia en **Python, PHP, JavaScript, C#, C** y más.
+- 📡 Investigación en **LoRa, GPS y redes seguras**.
+- 🌱 Actualmente aprendiendo **Flutter y prácticas avanzadas de seguridad informática**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,flutter,mysql,firebase,git,github,linux&theme=dark" alt="Tech Stack" />
@@ -26,19 +26,21 @@
 
 ---
 
-### 🏆 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenriquezs&theme=material-palenight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&theme=material-palenight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenriquezs&theme=material-palenight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenriquezs&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contacto
 
 <p align="center">
   <a href="mailto:zenrizu@gmail.com" target="_blank">
@@ -52,10 +54,3 @@
   </a>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/zenriquezs/zenriquezs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
