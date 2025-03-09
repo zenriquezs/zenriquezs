@@ -22,29 +22,22 @@
 
 ### 💼 Experiencia y Proyectos
 
-📌 **REINGTEC**
-- Desarrollo de un **prototipo para seguimiento de transporte con IoT**.
-- Integración de **LoRa y GPS** para rastreo seguro de transporte.
-- Prevención de robos mediante **monitoreo en tiempo real**.
-
-📌 **CONAINTE 2024**
-- Diseño de un **sistema de gestión de datos ambientales**.
-- Generación de **reportes estratégicos sobre emisiones de gases**.
-- Aplicación de **modelos de análisis de datos** en ambiente web.
-
-📌 **INNOVATEC 2024**
-- Desarrollo de **GeoTransport Shield**, un prototipo IoT.
-- Reconocimiento por **innovación en seguridad vial**.
-- Aplicación de **protocolos de comunicación segura** en transporte.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=reingtec&theme=radical" alt="REINGTEC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=conainte2024&theme=radical" alt="CONAINTE 2024" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=innovatec2024&theme=radical" alt="INNOVATEC 2024" />
+</div>
 
 ---
 
 ### 📜 Certificaciones
 
-✅ **Certificación en Ciberseguridad** – Fundamentos de seguridad en redes y criptografía.
-✅ **Curso de IoT y Sensores Inteligentes** – Implementación de proyectos con LoRa y MQTT.
-✅ **Desarrollo de Aplicaciones Web con Laravel** – Construcción de plataformas dinámicas y seguras.
-✅ **Gestión de Bases de Datos con MySQL y Firebase** – Optimización y diseño de bases de datos escalables.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_ciberseguridad&theme=radical" alt="Certificación en Ciberseguridad" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_iot&theme=radical" alt="Curso de IoT y Sensores Inteligentes" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_laravel&theme=radical" alt="Desarrollo de Aplicaciones Web con Laravel" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenriquezs&repo=certificacion_mysql&theme=radical" alt="Gestión de Bases de Datos con MySQL y Firebase" />
+</div>
 
 ---
 
@@ -60,6 +53,19 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌐 Portafolio y CV
+
+<p align="center">
+  <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://zenriquezs.github.io/CV-EnriqueZS/" target="_blank">
+    <img src="https://img.shields.io/badge/CV-1976D2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" />
+  </a>
 </p>
 
 ---
