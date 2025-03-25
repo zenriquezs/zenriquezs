@@ -1,14 +1,15 @@
-<!-- Banner o imagen de cabecera -->
-<p align="center">
-  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="400" />
-</p>
-
 <h1 align="center">Hola, soy Enrique Zuñiga Zuñiga</h1>
 <h3 align="center">Desarrollador Web Fullstack Jr. | En formación como Ingeniero en TICs</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend;Proyectos+con+impacto+real;Orientado+a+soluciones+funcionales+y+seguras" alt="Typing Banner" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="400" />
+</p>
+
+
 
 ---
 
