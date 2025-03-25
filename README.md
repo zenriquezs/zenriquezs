@@ -10,6 +10,12 @@
 
 ### 🚀 Sobre mí
 
+Soy Enrique, estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones.  
+Me estoy formando como desarrollador fullstack, con experiencia en proyectos académicos que integran tanto frontend como backend.  
+Me apasiona crear soluciones útiles y funcionales, participar en retos tecnológicos y aprender constantemente.  
+Creo en el potencial de la tecnología para resolver problemas reales y generar un impacto positivo.
+
+
 - 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones** en ITSOEH.
 - 👨‍💻 Apasionado por el **desarrollo web**, tanto en frontend como backend.
 - 🛠️ Desarrollo proyectos con impacto real, integrando lógica, diseño y experiencia de usuario.
