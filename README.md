@@ -66,20 +66,20 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
 ---
 
 ### Contacto
-
 <p align="center">
   <a href="mailto:zenrizu@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-zenrizu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://github.com/zenriquezs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-zenriquezs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Visita%20mi%20perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Web-purple?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/-purple?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
   </a>
 </p>
+
 
 
