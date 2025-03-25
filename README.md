@@ -15,15 +15,6 @@ Me estoy formando como desarrollador fullstack, con experiencia en proyectos aca
 Me apasiona crear soluciones útiles y funcionales, participar en retos tecnológicos y aprender constantemente.  
 Creo en el potencial de la tecnología para resolver problemas reales y generar un impacto positivo.
 
-
-- 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones** en ITSOEH.
-- 👨‍💻 Apasionado por el **desarrollo web**, tanto en frontend como backend.
-- 🛠️ Desarrollo proyectos con impacto real, integrando lógica, diseño y experiencia de usuario.
-- 💡 Me interesan temas como **IoT**, **Ciberseguridad**, y **automatización de sistemas**.
-- 🔍 Experiencia en retos académicos aplicando lógica, hardware y software (CrowPi, LoRa, GPS).
-- 🌱 Actualmente profundizando en **seguridad informática** y **estructuras de datos**.
-- 🤖 He implementado desde **chatbots en Laravel** hasta **plataformas de gestión institucional**.
-
 ---
 
 ### 💼 Proyectos y Participaciones
