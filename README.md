@@ -6,18 +6,19 @@
 </p>
 <p align="center">
   <a href="mailto:zenrizu@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-zenrizu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/-Email-6b21a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/zenriquezs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-zenriquezs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Visita%20mi%20perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Web-purple?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/-Portafolio-7e22ce?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="300" />
 </p>
