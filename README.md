@@ -13,13 +13,13 @@
 
 ### Sobre mí
 
-Soy un desarrollador web en formación con enfoque en backend y frontend, orientado a la creación de soluciones tecnológicas que resuelvan problemas reales.  
-Actualmente estudio Ingeniería en Tecnologías de la Información y Comunicaciones, donde he participado en proyectos con enfoque en desarrollo web, IoT y automatización.  
-Me interesa la innovación, el trabajo colaborativo y el aprendizaje constante de herramientas y tecnologías con impacto real.
+Desarrollador web junior con enfoque en frontend y backend. Actualmente curso Ingeniería en Tecnologías de la Información y Comunicaciones.  
+He trabajado en proyectos académicos centrados en la integración de tecnologías como IoT, bases de datos, desarrollo de interfaces y sistemas administrativos.  
+Me interesa crear soluciones que no solo funcionen, sino que sean útiles, accesibles y sostenibles. Estoy en constante formación en temas como ciberseguridad, desarrollo backend y diseño funcional.
 
 ---
 
-### Principales Tecnologías
+### Tecnologías y herramientas principales
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql,laravel,bootstrap,git,github,firebase,vscode,linux&theme=dark" />
@@ -29,11 +29,36 @@ Me interesa la innovación, el trabajo colaborativo y el aprendizaje constante d
 
 ### Proyectos destacados
 
-- **Sistema de rastreo IoT** – Desarrollo de una solución con LoRa y GPS para mejorar la seguridad en el transporte de carga.
-- **Plataforma ambiental** – Herramienta para monitoreo y análisis de emisiones contaminantes con reportes automatizados.
-- **CrowPi challenges (STEM 2025)** – Resolución de retos técnicos aplicando lógica, programación y componentes de hardware.
+- **Sistema de rastreo IoT** – Integración de LoRa y GPS para mejorar la seguridad en el transporte de carga.
+- **Plataforma ambiental** – Sistema de gestión y análisis de emisiones de gases contaminantes.
+- **CrowPi challenges (STEM 2025)** – Ejercicios técnicos de programación y electrónica aplicada a problemas reales.
 
-Ver más en mi [portafolio web](https://zenriquezs.github.io/EnriqueZS/)
+[🔗 Ver más en mi portafolio web](https://zenriquezs.github.io/EnriqueZS/)
+
+---
+
+### Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="Enrique GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenriquezs&theme=tokyonight&hide_border=true" alt="Enrique GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Certificaciones relevantes
+
+- Microsoft: Protect Your Applications, Platform Protection, Azure Active Directory
+- Google: Data Fundamentals
+- Cisco: CCNA Switching, Routing & Wireless Essentials
+- Dataquest: Python for Data Science
 
 ---
 
