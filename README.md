@@ -45,17 +45,21 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
   <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="Enrique GitHub Stats" />
-</p>
+### Certificaciones
 
-
-### Certificaciones relevantes
-
-- Microsoft: Protect Your Applications, Platform Protection, Azure Active Directory
-- Google: Data Fundamentals
-- Cisco: CCNA Switching, Routing & Wireless Essentials
-- Dataquest: Python for Data Science
+| Certificación                                                                 | Institución                | Temática principal                                     |
+|-------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------|
+| Protect your Applications                                                     | Microsoft                  | Seguridad en aplicaciones, autenticación, tokens       |
+| Implement Platform Protection                                                 | Microsoft                  | Infraestructura segura, firewalls, protección avanzada |
+| Secure access with Azure Active Directory                                     | Microsoft                  | Control de acceso, identidad y roles en la nube        |
+| Identity Protection and Governance                                            | Microsoft                  | Gestión de identidad, MFA, gobernanza en Azure         |
+| Fundamentals: Data, Data, Everywhere                                          | Google                     | Introducción a ciencia de datos y análisis             |
+| Python for Data Science                                                       | Dataquest                  | Manipulación de datos, Python aplicado a ciencia de datos |
+| CCNA: Switching, Routing & Wireless Essentials                                | Cisco Networking Academy   | Fundamentos de redes, routers, switches y conectividad |
+| Desarrollo de Aplicaciones Web con Laravel                                    | Curso independiente        | Creación de plataformas dinámicas y estructuradas      |
+| Gestión de Bases de Datos con MySQL y Firebase                                | Curso independiente        | Modelado de datos, consultas y estructuras relacionales|
+| Curso de IoT y Sensores Inteligentes                                          | Curso universitario        | Integración de sensores, LoRa, MQTT                    |
+| Fundamentos de Ciberseguridad                                                 | Curso universitario        | Seguridad de red, criptografía, riesgos informáticos   |
 
 ---
 
