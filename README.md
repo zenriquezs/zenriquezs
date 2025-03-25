@@ -37,7 +37,13 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
 
 ---
 
+---
+
 ### Estadísticas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="Enrique GitHub Stats" />
@@ -51,7 +57,6 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
 
 ### Certificaciones relevantes
 
