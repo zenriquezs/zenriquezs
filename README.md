@@ -49,14 +49,6 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
   <img src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="Enrique GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenriquezs&theme=tokyonight&hide_border=true" alt="Enrique GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 
 ### Certificaciones relevantes
 
