@@ -51,7 +51,6 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
 
 ---
 
----
 
 ### Estadísticas
 
@@ -77,7 +76,6 @@ Me interesa crear soluciones que no solo funcionen, sino que sean útiles, acces
 
 ---
 
----
 
 
 
