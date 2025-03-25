@@ -1,6 +1,6 @@
 <!-- Banner o imagen de cabecera -->
 <p align="center">
-  <img src="https://zenriquezs.github.io/EnriqueZS/assets/banner-dark.png" alt="Enrique Zuñiga - Banner" style="width:100%;">
+  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" style="width:100%;">
 </p>
 
 <h1 align="center">Hola, soy Enrique Zuñiga Zuñiga</h1>
