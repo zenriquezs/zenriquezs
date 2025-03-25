@@ -1,22 +1,21 @@
-<h1 align="center">Hola, soy Enrique Zuñiga Zuñiga</h1>
-<h3 align="center">Desarrollador Web Fullstack Jr. | En formación como Ingeniero en TICs</h3>
+<h1 align="center">Enrique Zuñiga Zuñiga</h1>
+<h3 align="center">Desarrollador Web Fullstack Jr. | Estudiante de Ingeniería en Tecnologías de la Información</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend;Proyectos+con+impacto+real;Orientado+a+soluciones+funcionales+y+seguras" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend;Desarrollo+de+soluciones+funcionales+y+seguras;Proyectos+con+impacto+real;Siempre+aprendiendo+y+mejorando" alt="Typing Banner" />
 </p>
 
 <p align="center">
   <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="300" />
 </p>
 
-
-
 ---
 
 ### Sobre mí
 
-Soy desarrollador web con enfoque en backend y frontend. Actualmente curso Ingeniería en Tecnologías de la Información y Comunicaciones.  
-Me gusta crear sistemas funcionales que resuelvan problemas reales, trabajar en equipo y seguir aprendiendo sobre desarrollo, seguridad e innovación tecnológica.
+Soy un desarrollador web en formación con enfoque en backend y frontend, orientado a la creación de soluciones tecnológicas que resuelvan problemas reales.  
+Actualmente estudio Ingeniería en Tecnologías de la Información y Comunicaciones, donde he participado en proyectos con enfoque en desarrollo web, IoT y automatización.  
+Me interesa la innovación, el trabajo colaborativo y el aprendizaje constante de herramientas y tecnologías con impacto real.
 
 ---
 
@@ -30,11 +29,11 @@ Me gusta crear sistemas funcionales que resuelvan problemas reales, trabajar en 
 
 ### Proyectos destacados
 
-- **Sistema de rastreo IoT** – Integración de LoRa y GPS para seguridad vial.  
-- **Plataforma ambiental** – Análisis de emisiones con reporte automatizado.  
-- **CrowPi challenges (STEM 2025)** – Resolución de retos en tiempo real con lógica y hardware.  
+- **Sistema de rastreo IoT** – Desarrollo de una solución con LoRa y GPS para mejorar la seguridad en el transporte de carga.
+- **Plataforma ambiental** – Herramienta para monitoreo y análisis de emisiones contaminantes con reportes automatizados.
+- **CrowPi challenges (STEM 2025)** – Resolución de retos técnicos aplicando lógica, programación y componentes de hardware.
 
-➡️ Ver más en [mi portafolio](https://zenriquezs.github.io/EnriqueZS/)
+Ver más en mi [portafolio web](https://zenriquezs.github.io/EnriqueZS/)
 
 ---
 
