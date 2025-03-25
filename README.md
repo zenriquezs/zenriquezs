@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="400" />
+  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="300" />
 </p>
 
 
