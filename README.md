@@ -1,8 +1,8 @@
-# Hola, soy Enrique Zuñiga Zuñiga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# ¡Hola, soy Enrique Zuñiga Zuñiga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/zenriquezs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Ingeniero+en+TICs;Apasionado+por+IoT+y+Ciberseguridad;Desarrollador+Backend+y+Frontend;Siempre+aprendiendo+nuevas+tecnologías"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+Web+Fullstack+Jr.;Ingeniero+en+TICs+en+formación;Enfocado+en+Backend+y+Frontend;Apasionado+por+la+tecnología+con+impacto+real"/>
   </a>
 </p>
 
@@ -10,74 +10,44 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 **Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones** en ITSOEH.
-- 💡 Apasionado por **IoT, Ciberseguridad y Desarrollo Web**.
-- 🖥️ Experiencia en **Python, PHP, JavaScript, C#, C** y más.
-- 📡 Investigación en **LoRa, GPS y redes seguras**.
-- 🌱 Actualmente aprendiendo **Flutter y prácticas avanzadas de seguridad informática**.
-- 🛠️ Desarrollo de un **sistema de viáticos** para la universidad, asegurando su funcionamiento eficiente y seguro.
-- 🖥️ Implementación de un **chatbot en Laravel** para asistencia en ciberseguridad.
+- 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones** en ITSOEH.
+- 👨‍💻 Apasionado por el **desarrollo web**, tanto en frontend como backend.
+- 🛠️ Desarrollo proyectos con impacto real, integrando lógica, diseño y experiencia de usuario.
+- 💡 Me interesan temas como **IoT**, **Ciberseguridad**, y **automatización de sistemas**.
+- 🔍 Experiencia en retos académicos aplicando lógica, hardware y software (CrowPi, LoRa, GPS).
+- 🌱 Actualmente profundizando en **seguridad informática** y **estructuras de datos**.
+- 🤖 He implementado desde **chatbots en Laravel** hasta **plataformas de gestión institucional**.
 
 ---
 
-### 💼 Experiencia y Proyectos
+### 💼 Proyectos y Participaciones
 
-<div align="center">
-  <table>
-    <tr>
-      <th>📌 Proyecto</th>
-      <th>🔍 Descripción</th>
-    </tr>
-    <tr>
-      <td><b>REINGTEC</b></td>
-      <td>Desarrollo de un sistema basado en **LoRa y GPS** para rastreo y prevención de robos de transporte.</td>
-    </tr>
-    <tr>
-      <td><b>CONAINTE 2024</b></td>
-      <td>Plataforma para gestionar datos ambientales y generar reportes sobre emisiones de gases.</td>
-    </tr>
-    <tr>
-      <td><b>INNOVATEC 2024</b></td>
-      <td>Prototipo IoT **GeoTransport Shield**, reconocido por su innovación en seguridad vial.</td>
-    </tr>
-  </table>
-</div>
+| Proyecto | Descripción |
+|---------|-------------|
+| **REINGTEC** | Sistema IoT para rastreo de transporte mediante LoRa y GPS. Coautor de artículo publicado. |
+| **CONAINTE 2024** | Desarrollo de sistema para gestión ambiental con enfoque en emisiones de gases contaminantes. |
+| **INNOVATEC 2024** | Participación destacada con el prototipo GeoTransport Shield, enfocado en seguridad vial. |
+| **Campeonato STEM 2025** | Resolución de desafíos IoT con CrowPi, aplicando programación y lógica en tiempo real. |
 
 ---
 
-### 📜 Certificaciones
+### 📜 Certificaciones Relevantes
 
-<div align="center">
-  <table>
-    <tr>
-      <th>📃 Certificación</th>
-      <th>🏅 Institución</th>
-    </tr>
-    <tr>
-      <td>🔹 **Certificación en Ciberseguridad**</td>
-      <td>Fundamentos de Seguridad en Redes y Criptografía</td>
-    </tr>
-    <tr>
-      <td>🔹 **Curso de IoT y Sensores Inteligentes**</td>
-      <td>Implementación de proyectos con LoRa y MQTT</td>
-    </tr>
-    <tr>
-      <td>🔹 **Desarrollo de Aplicaciones Web con Laravel**</td>
-      <td>Construcción de plataformas dinámicas y seguras</td>
-    </tr>
-    <tr>
-      <td>🔹 **Gestión de Bases de Datos con MySQL y Firebase**</td>
-      <td>Optimización y diseño de bases de datos escalables</td>
-    </tr>
-  </table>
-</div>
+| Certificación | Institución |
+|---------------|-------------|
+| Protect your applications | Microsoft |
+| Identity protection and governance | Microsoft |
+| Secure access with Azure Active Directory | Microsoft |
+| Fundamentals: Data, Data, Everywhere | Google |
+| CCNA: Switching, Routing & Wireless Essentials | Cisco |
+| Python Programming for Data Science | Dataquest |
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🧠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,flutter,mysql,firebase,git,github,linux,raspberrypi,laravel&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bootstrap,flutter,mysql,firebase,git,github,linux,raspberrypi,laravel,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -90,7 +60,7 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Conecta conmigo
 
 <p align="center">
   <a href="mailto:zenrizu@gmail.com" target="_blank">
@@ -101,5 +71,8 @@
   </a>
   <a href="https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio Web" />
   </a>
 </p>
