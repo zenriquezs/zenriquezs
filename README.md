@@ -1,9 +1,5 @@
 <h1 align="center">Enrique Zuñiga Zuñiga</h1>
 <h3 align="center">Desarrollador Web Fullstack Jr. | Estudiante de Ingeniería en Tecnologías de la Información</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend;Desarrollor+de+soluciones+funcionales+y+seguras;Proyectos+con+impacto+real;Siempre+aprendiendo+y+mejorando" alt="Typing Banner" />
-</p>
 <p align="center">
   <a href="mailto:zenrizu@gmail.com">
     <img src="https://img.shields.io/badge/-Email-6b21a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,6 +13,9 @@
   <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-7e22ce?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
   </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend;Desarrollor+de+soluciones+funcionales+y+seguras;Proyectos+con+impacto+real;Siempre+aprendiendo+y+mejorando" alt="Typing Banner" />
 </p>
 
 <p align="center">
