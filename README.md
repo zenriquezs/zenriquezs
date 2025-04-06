@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/zenriquezs/zenriquezs/blob/main/Banner.jpeg" alt="Enrique Zuñiga - Banner" width="1400" height="300" />
-</p>
-<p align="center">
   <a href="mailto:zenrizu@gmail.com">
     <img src="https://img.shields.io/badge/-Email-6b21a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
