@@ -1,5 +1,5 @@
 <h1 align="center">Enrique Zuñiga Zuñiga</h1>
-<h3 align="center">Desarrollador Web Fullstack Jr. | Estudiante de Ingeniería en Tecnologías de la Información</h3>
+<h3 align="center">Desarrollor de software y web | Estudiante de Ingeniería en Tecnologías de la Información</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend;Desarrollor+de+soluciones+funcionales+y+seguras;Proyectos+con+impacto+real;Siempre+aprendiendo+y+mejorando" alt="Typing Banner" />
 </p>
