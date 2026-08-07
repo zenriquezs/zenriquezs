@@ -1,78 +1,284 @@
-<h1 align="center">Enrique Zuñiga Zuñiga</h1>
-<h3 align="center">Ingeniero en TICS | Enfocado en Desarrollo de Software y Web</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+%2B+Frontend;Desarrollor+de+soluciones+funcionales+y+seguras;Proyectos+con+impacto+real;Siempre+aprendiendo+y+mejorando" alt="Typing Banner" />
+<div align="center">
+
+# Enrique Zúñiga
+
+### Full Stack Developer · Automation · Data · IoT
+
+Desarrollo soluciones web, automatizaciones e integraciones orientadas a resolver problemas reales mediante software, datos y tecnología.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://zenriquezs.github.io/EnriqueZS/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique_ZS-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/enrique-zs/)
+[![GitHub](https://img.shields.io/badge/GitHub-zenriquezs-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zenriquezs)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy desarrollador orientado a la creación de **aplicaciones web, sistemas administrativos, automatización de procesos, integración de APIs y soluciones basadas en datos**.
+
+Mi experiencia combina desarrollo frontend y backend con bases de datos, infraestructura, IoT y análisis de información. He trabajado en proyectos que involucran desde interfaces web y sistemas de autenticación hasta plataformas de gestión, procesamiento de datos e integración de hardware y software.
+
+Me interesa especialmente construir soluciones que sean:
+
+* Escalables y fáciles de mantener
+* Seguras desde su diseño
+* Orientadas a automatizar procesos
+* Basadas en datos para apoyar la toma de decisiones
+* Simples y funcionales para el usuario final
+
+Actualmente enfoco mi crecimiento profesional en **backend, arquitectura de software, automatización, datos, cloud y ciberseguridad**.
+
+---
+
+## Tech Stack
+
+### Backend & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" />
 </p>
 
-<p align="center">
-  <a href="mailto:zenrizu@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-6b21a8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/zenriquezs" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/enrique-zu%C3%B1iga-zu%C3%B1iga-6118b82b0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://zenriquezs.github.io/EnriqueZS/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-7e22ce?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" />
-  </a>
+`REST APIs` · `Automation` · `Data Processing` · `Backend Architecture`
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" />
+</p>
+
+### Databases & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+`SQL Server` · `Power BI` · `Data Analysis` · `ETL`
+
+### Cloud, Infrastructure & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,linux,docker,git,github,vscode" />
+</p>
+
+### IoT & Networking
+
+`IoT` · `LoRa` · `GPS` · `MQTT` · `Sensors` · `LAN` · `VLAN`
+
+---
+
+## Áreas de especialización
+
+```text
+Web Development       ███████████████████░
+Backend & APIs        ██████████████████░░
+Databases             ██████████████████░░
+Automation            █████████████████░░░
+Data & BI             ████████████████░░░░
+IoT                   ███████████████░░░░░
+Cloud & Security      ██████████████░░░░░░
+```
+
+---
+
+## Experiencia
+
+### Desarrollo Full Stack
+
+Desarrollo de aplicaciones y plataformas web combinando frontend, backend y bases de datos.
+
+He trabajado con funcionalidades como:
+
+* Autenticación y autorización de usuarios
+* Sistemas administrativos
+* Gestión de usuarios y roles
+* Formularios y validación de información
+* Integración con bases de datos
+* APIs REST
+* Interfaces responsive
+* Procesamiento y visualización de datos
+
+---
+
+### Desarrollo Web Freelance
+
+Desarrollo de soluciones web para distintos requerimientos, desde landing pages hasta aplicaciones dinámicas.
+
+Experiencia trabajando con:
+
+`JavaScript` · `React` · `PHP` · `HTML` · `CSS` · `Firebase` · `MySQL`
+
+---
+
+### Datos & Automatización
+
+Diseño de procesos para transformar información en estructuras que puedan ser analizadas, consultadas y visualizadas.
+
+Áreas de trabajo:
+
+* Procesamiento de datos con Python
+* Estandarización de información
+* Diseño de bases de datos
+* Automatización de procesos
+* Integración de sistemas
+* Dashboards y análisis con Power BI
+
+---
+
+## Proyectos destacados
+
+### GeoTransport Shield
+
+**IoT · LoRa · GPS · Seguridad**
+
+Prototipo tecnológico para el seguimiento de transporte de carga mediante comunicación LoRa y posicionamiento GPS.
+
+El sistema integra hardware y software para proporcionar información de ubicación y contribuir a mejorar la seguridad y monitoreo del transporte.
+
+---
+
+### Plataforma de Gestión Ambiental
+
+**Data · Web · Databases · Reporting**
+
+Sistema enfocado en la gestión y análisis de información relacionada con emisiones de gases contaminantes.
+
+Permite estructurar información ambiental y generar datos útiles para análisis y toma de decisiones.
+
+---
+
+### IoT & STEM Challenges
+
+**Python · Sensors · Electronics · Automation**
+
+Desarrollo de soluciones utilizando programación, electrónica, sensores e Internet de las Cosas para resolver diferentes retos tecnológicos.
+
+Participación en competencias STEM dentro de la categoría de **Internet de las Cosas (IoT)**.
+
+---
+
+## Lo que estoy construyendo
+
+Mi enfoque actual está en conectar diferentes áreas tecnológicas dentro de una misma solución:
+
+```mermaid
+flowchart LR
+    A[Web Apps] --> B[APIs]
+    B --> C[Automation]
+    C --> D[Databases]
+    D --> E[Data Analysis]
+    E --> F[Dashboards]
+    B --> G[Cloud Services]
+    C --> H[IoT / External Systems]
+```
+
+La idea es desarrollar sistemas donde **aplicaciones, datos, automatización e infraestructura trabajen como un solo ecosistema**.
+
+---
+
+## Certificaciones
+
+### Microsoft
+
+* Protect your Applications
+* Implement Platform Protection
+* Secure Access with Azure Active Directory
+* Identity Protection and Governance
+
+### Cisco Networking Academy
+
+* CCNA: Switching, Routing & Wireless Essentials
+
+### Google
+
+* Fundamentals: Data, Data, Everywhere
+
+### Dataquest
+
+* Python for Data Science
+
+### Desarrollo & Tecnología
+
+* Desarrollo de Aplicaciones Web con Laravel
+* Gestión de Bases de Datos con MySQL y Firebase
+* IoT y Sensores Inteligentes
+* Fundamentos de Ciberseguridad
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zenriquezs&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenriquezs&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenriquezs&hide_border=true" />
+
+</div>
+
+---
+
+## Current Focus
+
+```javascript
+const enrique = {
+    role: "Full Stack Developer",
+
+    focus: [
+        "Backend Development",
+        "Process Automation",
+        "Data Engineering",
+        "APIs & Integrations",
+        "Cloud & Infrastructure",
+        "Cybersecurity"
+    ],
+
+    technologies: {
+        backend: ["PHP", "Laravel", "Python"],
+        frontend: ["JavaScript", "React", "Tailwind CSS"],
+        databases: ["MySQL", "SQL Server", "Firebase"],
+        data: ["Python", "Power BI"],
+        infrastructure: ["Linux", "Docker", "Azure"],
+        iot: ["LoRa", "MQTT", "GPS"]
+    },
+
+    philosophy: "Build systems that solve real problems."
+};
+```
+
+---
+
+## Conecta conmigo
+
+Si te interesa colaborar en proyectos relacionados con **desarrollo web, automatización, datos o tecnología**, puedes encontrarme aquí:
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/enrique-zs/">
+  <img src="https://img.shields.io/badge/LinkedIn-Enrique_Zúñiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/zenriquezs">
+  <img src="https://img.shields.io/badge/GitHub-zenriquezs-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://zenriquezs.github.io/EnriqueZS/">
+  <img src="https://img.shields.io/badge/Portfolio-Web-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-### Sobre mí
+<div align="center">
 
-Desarrollador web junior con enfoque en frontend y backend. Actualmente curso Ingeniería en Tecnologías de la Información y Comunicaciones.  
-He trabajado en proyectos académicos centrados en la integración de tecnologías como IoT, bases de datos, desarrollo de interfaces y sistemas administrativos.  
-Me interesa crear soluciones que no solo funcionen, sino que sean útiles, accesibles y sostenibles. Estoy en constante formación en temas como ciberseguridad, desarrollo backend y diseño funcional.
+### Building systems. Automating processes. Turning data into solutions.
 
----
-
-### Tecnologías y herramientas principales
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql,laravel,bootstrap,git,github,firebase,vscode,linux&theme=dark" />
-</p>
-
----
-
-### Proyectos destacados
-
-- **Sistema de rastreo IoT** – Integración de LoRa y GPS para mejorar la seguridad en el transporte de carga.
-- **Plataforma ambiental** – Sistema de gestión y análisis de emisiones de gases contaminantes.
-- **CrowPi challenges (STEM 2025)** – Ejercicios técnicos de programación y electrónica aplicada a problemas reales.
-
-[🔗 Ver más en mi portafolio web](https://zenriquezs.github.io/EnriqueZS/)
-
----
-
-
-### Estadísticas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenriquezs&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-### Certificaciones
-
-| Certificación                                                                 | Institución                | Temática principal                                     |
-|-------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------|
-| Protect your Applications                                                     | Microsoft                  | Seguridad en aplicaciones, autenticación, tokens       |
-| Implement Platform Protection                                                 | Microsoft                  | Infraestructura segura, firewalls, protección avanzada |
-| Secure access with Azure Active Directory                                     | Microsoft                  | Control de acceso, identidad y roles en la nube        |
-| Identity Protection and Governance                                            | Microsoft                  | Gestión de identidad, MFA, gobernanza en Azure         |
-| Fundamentals: Data, Data, Everywhere                                          | Google                     | Introducción a ciencia de datos y análisis             |
-| Python for Data Science                                                       | Dataquest                  | Manipulación de datos, Python aplicado a ciencia de datos |
-| CCNA: Switching, Routing & Wireless Essentials                                | Cisco Networking Academy   | Fundamentos de redes, routers, switches y conectividad |
-| Desarrollo de Aplicaciones Web con Laravel                                    | Curso independiente        | Creación de plataformas dinámicas y estructuradas      |
-| Gestión de Bases de Datos con MySQL y Firebase                                | Curso independiente        | Modelado de datos, consultas y estructuras relacionales|
-| Curso de IoT y Sensores Inteligentes                                          | Curso universitario        | Integración de sensores, LoRa, MQTT                    |
-| Fundamentos de Ciberseguridad                                                 | Curso universitario        | Seguridad de red, criptografía, riesgos informáticos   |
-
----
-
-
-
-
-
+</div>
